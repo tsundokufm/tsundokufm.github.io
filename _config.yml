@@ -15,7 +15,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-123786659-1
 hashtag: tsundokufm
 itunes_podcast_url:
 keywords: tech,technology,programming,mobile,web,development,developer,software,book,library
